@@ -8,6 +8,7 @@
 
 * [@caprice_t](https://twitter.com/caprice_t)
 数億年ぐらい前に思いつきで作成したものの、使い道が全く思い浮かばず現在に至るまで放置中
+考え事とかを呟く、のかもしれない…
 
 フォローする前に"必ず"[twilog](http://twilog.org/chemicl_t)を見てどんな呟きがなされるか把握すること。
 
@@ -24,12 +25,12 @@
 ## 連絡先
 caprice.chemicl.t
 
-後ろに、googleのやってる某メールサービスのドメイン名をつけてください (「@」を忘れずに)。
+後ろに、Googleのやってる某メールサービスのドメイン名をつけてください (「@」を忘れずに)。
 
 ## 所属
 * もっとも基本的な身分
 
-大阪大学 理学部 1年 (あぁ、もう2年生…)
+大阪大学 理学部 2年
 
 * 阪ゼミ会 (http://twitter.com/ouvsemi)
 
@@ -40,13 +41,11 @@ caprice.chemicl.t
 
 * AERO (http://aero-handai.jimdo.com/)
 
-都市政策班
+広報担当とか
 
 * 某教育系団体
 
-化学会
-某部門 テストチェックチーム
-某部門 間違い訂正チーム サブマネージャー
+いろいろ手を出しているぺーぺー
 
 意識高そうだが、本人は「全くその意図はなかった」「たまたまだ」等と発言している。
 
@@ -84,19 +83,55 @@ caprice.chemicl.t
 以下から適当に、気分に合わせて聞きます。某友人の影響がめちゃめちゃ強い…
 
 ### 手元にほとんどのアルバムがある
-* フジファブリック (ただし結成〜志村夭折時 まで)
-* School Food Punishment
-* サカナクション
-* 相対性理論
+#### フジファブリック (ただし結成〜志村夭折時 まで)
+* CHRONICLE
+* FAB FOX
+* MUSIC
+* RARE TRACKS & COVERS
+* SINGLES 2004-2009
+* TEENAGER
+* アラカルト
+* (EP) アラモード
+* シングルB面集 2004-2009
 
-### 手元に半分ぐらいある
-* モーモールルギャバン
-* くるり
+#### School Food Punishment
+* Air Feel, Color Swim 
+* amp-refrection
+* Riff-rain
+* (EP) RPG
+* (EP) How to go
+* Prog-Roid
+
+#### サカナクション
+* GO TO THE FUTURE
+* kikUUiki
+* NIGHT FISHING
+* (EP) アイデンティティ
+* sakanaction
+* シンシロ
+* DocumentaLy
+
+#### 相対性理論
+* シフォン主義
+* シンクロ二シティーン
+* TOWN AGE
+* ハイファイ新書
+
+#### モーモールルギャバン
+* クロなら結構です
+* BeVeci Calopueno
+* 僕は暗闇で迸る命、若さを叫ぶ
+* 野口、久津川で爆死
 
 ### 手元に3割もない
 * ASIAN KUNG-FU GENERATION
+* capsule
+* DE DE MOUSE
 * Spangle call Lilli line
+* くるり
 * さよならポニーテール
+* トクマルシューゴ
+
 
 ### 持ってないけど手に入れたい
 * ミドリカワ書房
@@ -131,12 +166,14 @@ caprice.chemicl.t
 
 ### 今日マチ子
 * みかこさん
+* アノネ、
 
 ### 華倫変
-* あれとか、あれとか…
+* 高速回線は光ウサギの夢を見るか？
 
 ### 持ってないけど好きです
-* 今は特になし
+* 福満しげゆき
+買う気にはなかなか至らないと言うところが本音
 
 ## 本
 そのうち書く…
