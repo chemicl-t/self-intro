@@ -14,18 +14,21 @@
 
 ## ブログ
 技術的な事を書きたいのに全く書く気が起きない (いま下書きが4つぐらいたまっている)。
-
-* http://caprice.hatenablog.com/
+http://caprice.hatenablog.com/
 
 ## github
 ここ。
+https://github.com/chemicl-t/
 
-* https://github.com/chemicl-t/
+## メール連絡先
+caprice.chemicl.t [at] gmail.com
 
-## 連絡先
-caprice.chemicl.t
+[at] を @ に置換してください。
 
-後ろに、Googleのやってる某メールサービスのドメイン名をつけてください (「@」を忘れずに)。
+## 何かください
+誕生日は2/1です。
+http://www.amazon.co.jp/registry/wishlist/2GW8H9UHY4TNA/
+
 
 ## 所属
 
@@ -35,7 +38,7 @@ caprice.chemicl.t
 
 大阪大学 理学部 3年
 
-###阪ゼミ会 (http://twitter.com/ouvsemi)
+###[阪ゼミ会](https://sites.google.com/site/ouvsemi)
 
 * 主催者…？兼 運営
 
@@ -43,13 +46,21 @@ caprice.chemicl.t
 * 解析力学・量子論小グループ
 * 論理学小グループ
 
-###AERO (http://aero-handai.jimdo.com/)
+###[AERO](http://aero-handai.jimdo.com/)
 
 広報担当とか
 テコ入れしないとやばい
 
 ###某教育系団体
 いろいろ手を出しているぺーぺー
+
+###[国際キムワイプ卓球協会](http://www.iktta.org/index.ja.html)
+国際キムワイプ卓球協会会員です (会員番号：JP-0001-0380-P)。
+
+キムワイプ卓球 (キム卓) とは、キムワイプの空き箱をラケット、キムワイプを丸めたものを球として行うサイエンティフィックスポーツです。詳しいルールについては次をご覧ください。
+http://www.iktta.org/games/index.ja.html
+
+ちなみにわしは球を明後日の方向に飛ばすのが得意です。
 
 ## 興味のある学問
 * 薬学
@@ -113,6 +124,11 @@ caprice.chemicl.t
 * シンシロ
 * DocumentaLy
 
+#### さよならポニーテール
+* 青春ファンタジア
+* なんだかキミが恋しくて
+* 魔法のメロディ
+
 #### 相対性理論
 * シフォン主義
 * シンクロ二シティーン
@@ -127,12 +143,13 @@ caprice.chemicl.t
 
 ### 手元に3割もない
 * ASIAN KUNG-FU GENERATION
-* capsule
+* CAPSULE
 * DE DE MOUSE
 * FISHMANS
+* Number Girl
+* POLYSICS
 * Spangle call Lilli line
 * くるり
-* さよならポニーテール
 * トクマルシューゴ
 * 踊ってばかりの国
 
@@ -155,6 +172,7 @@ caprice.chemicl.t
 ### 西島大介
 イラストから溢れるセンスが！好き！
 ディエンビエンフーを手にとって一目惚れし、ディエンビエンフー扱ってる本屋に立ち読みのため通い詰めた記憶があります…(当時はお金がなかった; 今は実家帰るたびにその本屋で何かしら買うようにしています…)
+
 * Young, Alive, in Love
 * ディエンビエンフー
 * 世界の終わりの魔法使い
@@ -216,8 +234,7 @@ BANANA FISH読んでみたいんですけど、実家に残っていない…
 * すごいHaskellたのしく学ぼう！
 
 ### 読み返さないと本当にアレでアレなもの
-* 基礎解析学で使った教科書 (でもこれ読むなら解析概論読んだ方よくないか…？)
-* 線形代数学で使った教科書 (授業がぬるすぎて計算法しか記憶に残らなかったので)
+
 
 ### 積ん読しているもの
 * 田崎熱力学
